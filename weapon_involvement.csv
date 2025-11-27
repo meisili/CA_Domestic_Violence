@@ -1,0 +1,6 @@
+Weapon_Type,Count,Total_Calls,Calls_With_Weapons,Calls_Without_Weapons
+Firearm,16488,1635303,806010,829293
+Knife,32501,1635303,806010,829293
+Personal Weapons,632975,1635303,806010,829293
+Other,124046,1635303,806010,829293
+Not Reported,0,1635303,806010,829293
