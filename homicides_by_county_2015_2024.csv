@@ -1,0 +1,57 @@
+CO,County_Name,Total_Homicides_Case,Avg_Annual_Homicide_Case,POPULATION,Homicide_Rate_Per_100K
+19,Los Angeles County,6374,637.4,10004118,6.37
+36,San Bernardino County,1379,137.9,2180403,6.32
+1,Alameda County,1254,125.4,1649913,7.6
+33,Riverside County,1020,102.0,2449223,4.16
+37,San Diego County,921,92.1,3299991,2.79
+15,Kern County,907,90.7,902511,10.05
+34,Sacramento County,892,89.2,1569194,5.68
+10,Fresno County,690,69.0,1003730,6.87
+39,San Joaquin County,640,64.0,771124,8.3
+30,Orange County,579,57.9,3167356,1.83
+38,San Francisco County,498,49.8,867290,5.74
+7,Contra Costa County,464,46.4,1156590,4.01
+43,Santa Clara County,450,45.0,1923607,2.34
+54,Tulare County,342,34.2,469848,7.28
+27,Monterey County,302,30.2,434720,6.95
+50,Stanislaus County,297,29.7,551086,5.39
+48,Solano County,288,28.8,448579,6.42
+56,Ventura County,241,24.1,844006,2.86
+24,Merced County,189,18.9,280039,6.75
+42,Santa Barbara County,129,12.9,444749,2.9
+41,San Mateo County,127,12.7,763769,1.66
+49,Sonoma County,111,11.1,490410,2.26
+16,Kings County,90,9.0,152726,5.89
+4,Butte County,89,8.9,214474,4.15
+12,Humboldt County,85,8.5,135508,6.27
+13,Imperial County,68,6.8,180160,3.77
+20,Madera County,68,6.8,156576,4.34
+44,Santa Cruz County,66,6.6,272319,2.42
+45,Shasta County,62,6.2,180161,3.44
+31,Placer County,57,5.7,402435,1.42
+57,Yolo County,57,5.7,219245,2.6
+23,Mendocino County,54,5.4,88433,6.11
+58,Yuba County,52,5.2,80275,6.48
+17,Lake County,46,4.6,66114,6.96
+9,El Dorado County,41,4.1,191845,2.14
+40,San Luis Obispo County,38,3.8,281966,1.35
+52,Tehama County,38,3.8,64705,5.87
+51,Sutter County,35,3.5,97684,3.58
+47,Siskiyou County,34,3.4,43636,7.79
+29,Nevada County,30,3.0,100867,2.97
+21,Marin County,27,2.7,259615,1.04
+5,Calaveras County,18,1.8,45933,3.92
+35,San Benito County,17,1.7,63668,2.67
+28,Napa County,17,1.7,137572,1.24
+8,Del Norte County,17,1.7,27399,6.2
+3,Amador County,13,1.3,40139,3.24
+53,Trinity County,12,1.2,14368,8.35
+18,Lassen County,11,1.1,30705,3.58
+55,Tuolumne County,11,1.1,54038,2.04
+11,Glenn County,10,1.0,28247,3.54
+14,Inyo County,7,0.7,18291,3.83
+6,Colusa County,7,0.7,21713,3.22
+32,Plumas County,6,0.6,18943,3.17
+25,Modoc County,6,0.6,8747,6.86
+22,Mariposa County,5,0.5,17135,2.92
+26,Mono County,5,0.5,13669,3.66
